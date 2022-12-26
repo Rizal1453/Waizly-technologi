@@ -8,7 +8,6 @@ const EditList = ({ showEdit, handleCloseEdit, getData, save }) => {
   const [form, setForm] = useState({
     title: "",
     description: "",
-    status: "true",
   });
 
   const handleUpdate = async (e) => {
