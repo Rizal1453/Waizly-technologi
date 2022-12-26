@@ -1,0 +1,23 @@
+.btndark {
+  height: 56px !important;
+}
+.bg-pink {
+  background-color: #d83e7e !important;
+}
+.bg-pink:hover {
+  background-color: #dd4182 !important;
+}
+.c-pink {
+  color: #cd2e71 !important;
+}
+.bd {
+  border-bottom: 6px solid rgb(3, 0, 0);
+}
+.myBG {
+  height: 100vh;
+  background: url("./components/images/images.jpg");
+  background-size: cover;
+}
+.c {
+  text-decoration-line: line-through;
+}
